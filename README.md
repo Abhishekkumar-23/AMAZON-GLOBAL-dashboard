@@ -4,20 +4,22 @@ The Amazon Power BI Dashboard is an interactive data visualization tool designed
 <hr>
 
 🎯 Key Features
+<ol>
 Sales Analytics
-Track gross revenue, order volume, average order value (AOV), and sales by category, product, region, and time period.
+ Track gross revenue, order volume, average order value (AOV), and sales by category, product, region, and time period.
 
 Customer Insights
-Analyze customer demographics, buying patterns, acquisition sources, and retention trends.
+ Analyze customer demographics, buying patterns, acquisition sources, and retention trends.
 
 Product Performance
-Visualize top-selling SKUs, return rates, inventory levels, pricing trends, and reviews/ratings.
+ Visualize top-selling SKUs, return rates, inventory levels, pricing trends, and reviews/ratings.
 
 Operational KPIs
-Monitor fulfillment metrics like late shipments, cancellations, stock-outs, and order processing time.
+ Monitor fulfillment metrics like late shipments, cancellations, stock-outs, and order processing time.
 
 Dynamic Filters
-Interactive slicers to filter data by time, region, product category, ASIN, or customer segment.
+ Interactive slicers to filter data by time, region, product category, ASIN, or customer segment.
 
 Mobile-Responsive
-Optimized layout for tablets and mobile devices through Power BI’s responsive view.
+ Optimized layout for tablets and mobile devices through Power BI’s responsive view.
+</ol>
