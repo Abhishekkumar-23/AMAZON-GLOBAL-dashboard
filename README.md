@@ -1,6 +1,7 @@
 # 📊 AMAZON-GLOBAL-dashboard
 Overview
 The Amazon Power BI Dashboard is an interactive data visualization tool designed to analyze and monitor key business metrics from an Amazon seller or vendor account. This dashboard consolidates data across sales, inventory, customer behavior, and operational performance, enabling data-driven decisions to enhance e-commerce strategy and optimize performance.
+<hr>
 
 🎯 Key Features
 Sales Analytics
